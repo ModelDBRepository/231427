@@ -14,3 +14,6 @@ request).
 
 Questions on how to use this model should be directed to
 michael.doron@mail.huji.ac.il
+
+---
+Version 2022-05-16 migrating ProbAMPANMDA2_ratio.mod so that it supports Neuron 9.0
